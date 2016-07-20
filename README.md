@@ -1,7 +1,9 @@
 # Continuous Improvement
 
 This repo serves as a web journal for tracking my continuous improvement journey. It is updated with no regular schedule, but frequently enough.
- 
+
+<br>
+
 # Table of Contents
 * [Courses](#courses)
     * [Online Courses from MongoDB](#online-courses-from-mongodb)
@@ -9,17 +11,21 @@ This repo serves as a web journal for tracking my continuous improvement journey
 * [Certifications](#certifications)
 * [Questions or Feedback](#questions-or-feedback)
 
+<br>
+
 # Courses
 
 <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB-Logo-5c3a7405a85675366beb3a5ec4c032348c390b3f142f5e6dddf1d78e2df5cb5c.png" alt="MongoDB University" width="250">
 
-# Online Courses from MongoDB
+## Online Courses from MongoDB
 
 The following courses are parts of the [MongoDB University](https://university.mongodb.com/).
 
 - [X] **M102 - MongoDB for DBAs**: [View course completion certificate](https://university.mongodb.com/course_completion/5262104e9d074bdf9717234206d02ce2)
 
 - [X] **M101JS - MongoDB for Node.js Developers**: [View course completion certificate](http://university.mongodb.com/course_completion/a94e7a0563eb4556a189fb2d209e07be)
+
+<br>
 
 <img src="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/v3/images/logo/microsoft.png" alt="MongoDB University" width="250">
 
@@ -39,6 +45,8 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 - [ ] **DAT202.3x - Implementing Predictive Solutions with Spark in Azure HDInsight**: [View course](https://www.edx.org/course/implementing-predictive-solutions-spark-microsoft-dat202-3x-0)
 
+<br>
+
 # Certifications
 
 <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB-Logo-5c3a7405a85675366beb3a5ec4c032348c390b3f142f5e6dddf1d78e2df5cb5c.png" alt="MongoDB University" width="250">
@@ -46,6 +54,8 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 - [ ] **C100DBA - MongoDB Certified DBA Associate Exam**: https://university.mongodb.com/exam/DBA/about
 
 - [ ] **C100DEV - MongoDB Certified Developer Associate Exam**: https://university.mongodb.com/exam/DEVELOPER/about
+
+<br>
 
 # Questions or Feedback
 > Contact me anytime for anything about this repo
