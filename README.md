@@ -4,7 +4,7 @@
 
 - [X] **M102 - MongoDB for DBAs** : https://university.mongodb.com/course_completion/5262104e9d074bdf9717234206d02ce2
 
-- [ ] **M101JS - MongoDB for Node.js Developers** : https://university.mongodb.com/courses/M101JS/about
+- [X] **M101JS - MongoDB for Node.js Developers** : http://university.mongodb.com/course_completion/a94e7a0563eb4556a189fb2d209e07be
 
 <img src="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/v3/images/logo/microsoft.png" alt="MongoDB University" width="250">
 
