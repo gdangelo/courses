@@ -45,6 +45,14 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 - [ ] **DAT202.3x - Implementing Predictive Solutions with Spark in Azure HDInsight**: [View course](https://www.edx.org/course/implementing-predictive-solutions-spark-microsoft-dat202-3x-0)
 
+<img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo-title-dark.png" alt="Redux" width="250">
+
+## Redux Courses from egghead.io
+
+- [X] **Getting Started with Redux from Dan Abramov:** [View course](https://egghead.io/courses/getting-started-with-redux)
+
+- [ ] **Building React Applications with Idiomatic Redux from Dan Abramov:** [View course](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
 <br>
 
 # Certifications
