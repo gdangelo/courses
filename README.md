@@ -8,6 +8,7 @@ This repo serves as a web journal for tracking my continuous improvement journey
 * [Courses](#courses)
     * [Online Courses from MongoDB](#online-courses-from-mongodb)
     * [Data Science Curriculum from Microsoft](#data-science-curriculum-from-microsoft)
+    * [Redux Courses from egghead.io](#redux-courses-from-eggheadio)
 * [Certifications](#certifications)
 * [Questions or Feedback](#questions-or-feedback)
 
