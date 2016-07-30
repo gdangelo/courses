@@ -36,7 +36,7 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 - [ ] **DAT208.2x - Introduction to Python for Data Science**: [View course](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-2)
 
-- [ ] **DAT203.1x - Data Science Essentials**: [View course](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x)
+- [X] **DAT203.1x - Data Science Essentials**: [View course](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x)
 
 - [ ] **DAT203.2x - Principles of Machine Learning**: [View course](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x)
 
