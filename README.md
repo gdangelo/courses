@@ -62,7 +62,7 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 - [ ] **C100DBA - MongoDB Certified DBA Associate Exam**: https://university.mongodb.com/exam/DBA/about
 
-- [ ] **C100DEV - MongoDB Certified Developer Associate Exam**: https://university.mongodb.com/exam/DEVELOPER/about
+- [X] **C100DEV - MongoDB Certified Developer Associate Exam**: [Verify my MongoDB certification n°317056219](https://university.mongodb.com/exams/verify_certificate)
 
 <br>
 
