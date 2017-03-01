@@ -34,7 +34,7 @@ The following courses are parts of the [MongoDB University](https://university.m
 
 The following courses are parts of the [Data Science Curriculum from Microsoft](https://www.edx.org/microsoft-data-science-curriculum).
 
-- [ ] **DAT208.2x - Introduction to Python for Data Science**: [View course](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-2)
+- [X] **DAT208.2x - Introduction to Python for Data Science**: [View course completion certificate](https://courses.edx.org/certificates/50d6852f52a341b6b7c2bcd5beffc56f)
 
 - [X] **DAT203.1x - Data Science Essentials**: [View course completion certificate](https://courses.edx.org/certificates/e73ea8d8a6644680b8254dd0e7f12e72)
 
