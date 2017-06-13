@@ -71,4 +71,4 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 * Twitter: [@gdangel0](https://twitter.com/gdangel0)
 * Linkedin: [Grégory D'Angelo](https://www.linkedin.com/in/gregorydangelo)
-* Email: gregory@gdangelo.fr
+* Email: [gregory@gdangelo.fr](mailto:gregory@gdangelo.fr)
