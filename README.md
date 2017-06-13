@@ -40,7 +40,7 @@ The following courses are parts of the [Data Science Curriculum from Microsoft](
 
 - [X] **DAT203.2x - Principles of Machine Learning**: [View course completion certificate](https://courses.edx.org/certificates/ce3aa036109e469894627b9e7c2ac123)
 
-- [ ] **DAT210x - Programming with Python for Data Science**: [View course](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)
+- [X] **DAT210x - Programming with Python for Data Science**: [View course completion certificate](https://courses.edx.org/certificates/fa7fdf1f474044739038e566c4163c12)
 
 - [ ] **DAT203.3x - Applied Machine Learning**: [View course](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x)
 
