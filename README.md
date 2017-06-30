@@ -58,6 +58,8 @@ The following courses are parts of the [DataCamp Courses Library](https://www.da
 
 - [X] **Intro to Python for Data Science**: [View course completion certificate](https://www.datacamp.com/statement-of-accomplishment/course/e7e9e0730cf380bccaef5a92134d88e1e26890d4)
 
+- [X] **Intermediate Python for Data Science**: [View course completion certificate](https://www.datacamp.com/statement-of-accomplishment/course/55bba5519b46cb038e9194fe857169aa6908c80d)
+
 <br>
 
 <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB-Logo-5c3a7405a85675366beb3a5ec4c032348c390b3f142f5e6dddf1d78e2df5cb5c.png" alt="MongoDB University" width="250">
