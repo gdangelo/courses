@@ -28,6 +28,16 @@ The following courses are parts of the [MongoDB University](https://university.m
 
 <br>
 
+<img src="https://cdn.worldvectorlogo.com/logos/udacity-2.svg" alt="Udacity" width="250">
+
+## Udacity Nanodegree
+
+- [ ] **Machine Learning Engineer Nanodegree**: [View course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+
+- [ ] **Self-Driving Car Engineer Nanodegree**: [View course](https://www.udacity.com/drive)
+
+<br>
+
 <img src="https://assets.onestore.ms/cdnfiles/onestorerolling-1606-01000/shell/v3/images/logo/microsoft.png" alt="MongoDB University" width="250">
 
 ## Data Science Curriculum from Microsoft
